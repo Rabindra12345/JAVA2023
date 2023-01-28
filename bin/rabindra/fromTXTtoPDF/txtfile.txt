@@ -1,0 +1,12 @@
+hello this is great. this is just a random idea that came in my freaking little mind. And wanted to try it out on chatgpt , and it converted the txt file to pdf format with really really impressive idea and i didnot know about various class like Document , paragraph and sttufs after observing that program i got to know about really really nice stuffs and so here i am trying , i mean basically, copying the idea of chatgpt and writing and trying to test on my IDE to test whether it actually works or not .so let get the shot .
+
+
+If you feel cold
+I can warm you up
+If you are sad
+I can cheer you up
+If you are hungry
+We can share an egg cup
+But if you need money
+Sorry, I have to shut up.
+
